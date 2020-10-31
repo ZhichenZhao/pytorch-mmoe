@@ -1,3 +1,8 @@
+"""
+Multi-gate Mixture-of-Experts model implementation (PyTorch).
+Written by Zhichen Zhao
+"""
+
 import pytorch_lightning as pl
 import torch
 
